@@ -1,0 +1,4 @@
+Legal
+=====
+
+License and notes.
